@@ -87,3 +87,40 @@ CodeVault/
 4. Use the menu to interact with the application
 
 ---
+
+
+## 🧪 Sample Usage
+
+```
+===== CodeVault =====
+1. Add Snippet
+2. View All
+3. Search
+4. Delete
+5. Toggle Favorite
+6. View Favorites
+7. Recent Snippets
+8. Stats
+9. Exit
+```
+
+---
+
+## 🚧 Challenges Faced
+
+* Designing a clean structure using multiple classes
+* Implementing file storage and retrieval properly
+* Handling user input in console applications
+* Ensuring data consistency between memory and file
+
+---
+
+## 📚 Learning Outcomes
+
+* Practical implementation of Object-Oriented Programming
+* Use of Java Collections for data management
+* File handling for persistent storage
+* Designing a real-world problem-solving application
+
+---
+
