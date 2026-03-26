@@ -2,7 +2,7 @@
 
 ### A Java-Based Programming Knowledge & Snippet Manager for Students
 
----
+<br>
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ CodeVault is a console-based Java application designed to help students organize
 
 While learning programming, students often struggle to remember syntax, algorithms, and reusable logic. CodeVault solves this by acting as a structured digital notebook where users can save, search, and manage their coding knowledge efficiently.
 
----
+<br>
 
 ## 🎯 Problem Statement
 
@@ -22,7 +22,7 @@ Students frequently:
 
 This project addresses these challenges by providing a simple and structured system for managing programming knowledge.
 
----
+<br>
 
 ## 💡 Features
 
@@ -37,8 +37,20 @@ This project addresses these challenges by providing a simple and structured sys
 * ❌ Delete snippets
 * 💾 Data persistence using file handling
 
+<br>
+
+## 📸 Screenshots
+
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/6948117a-d503-45f8-ae88-8fd5fb74009e" />
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/b025135e-3a38-4eed-8bf2-951acab4b402" />
+<img width="440" alt="Screenshot2026-03-26" src="https://github.com/user-attachments/assets/553bc7d4-a91a-458e-af9a-5201b10f92ea" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/c9f27e63-76a8-4e99-a54d-1754510523a1" />
+
+<br>
+
 ---
 
+<br>
 
 ## 🛠️ Technologies Used
 
@@ -47,7 +59,7 @@ This project addresses these challenges by providing a simple and structured sys
 * Collections Framework (ArrayList, HashMap)
 * File Handling (BufferedReader, BufferedWriter)
 
----
+<br>
 
 ## 🧱 Project Structure
 
@@ -65,7 +77,7 @@ CodeVault/
 └── README.md
 ```
 
----
+<br>
 
 ## ⚙️ How to Run
 
@@ -86,7 +98,7 @@ CodeVault/
 
 4. Use the menu to interact with the application
 
----
+<br>
 
 
 ## 🧪 Sample Usage
@@ -104,7 +116,7 @@ CodeVault/
 9. Exit
 ```
 
----
+<br>
 
 ## 🚧 Challenges Faced
 
@@ -113,7 +125,7 @@ CodeVault/
 * Handling user input in console applications
 * Ensuring data consistency between memory and file
 
----
+<br>
 
 ## 📚 Learning Outcomes
 
@@ -122,7 +134,7 @@ CodeVault/
 * File handling for persistent storage
 * Designing a real-world problem-solving application
 
----
+<br>
 
 ## 🔮 Future Enhancements
 
@@ -131,7 +143,7 @@ CodeVault/
 * Export/import snippets
 * Integration with a database
 
----
+<br>
 
 ## 👨‍💻 Author
 
@@ -140,7 +152,7 @@ B.Tech Computer Science (AI & ML)
 
 Digitally known by the aliases SamXop123 || Dot_NotSam.
 
----
+<br>
 
 ## 📌 Conclusion
 
