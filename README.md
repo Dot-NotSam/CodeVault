@@ -124,3 +124,24 @@ CodeVault/
 
 ---
 
+## 🔮 Future Enhancements
+
+* Graphical User Interface (GUI) using JavaFX or Swing
+* Advanced filtering and sorting options
+* Export/import snippets
+* Integration with a database
+
+---
+
+## 👨‍💻 Author
+
+Sameer Prajapati <br>
+B.Tech Computer Science (AI & ML)
+
+Digitally known by the aliases SamXop123 || Dot_NotSam.
+
+---
+
+## 📌 Conclusion
+
+CodeVault is a simple yet effective tool that demonstrates how core Java concepts can be applied to solve a real-world problem. It emphasizes structured thinking, usability, and practical implementation over complexity.
