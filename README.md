@@ -38,3 +38,52 @@ This project addresses these challenges by providing a simple and structured sys
 * 💾 Data persistence using file handling
 
 ---
+
+
+## 🛠️ Technologies Used
+
+* Java (Core Java)
+* Object-Oriented Programming (OOP)
+* Collections Framework (ArrayList, HashMap)
+* File Handling (BufferedReader, BufferedWriter)
+
+---
+
+## 🧱 Project Structure
+
+```
+CodeVault/
+│
+├── src/
+│   ├── Main.java
+│   ├── Snippet.java
+│   ├── SnippetManager.java
+│
+├── data/
+│   └── snippets.txt
+│
+└── README.md
+```
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository:
+
+   ```
+   git clone <your-repo-link>
+   ```
+
+2. Open the project in any Java IDE (IntelliJ / Eclipse / VS Code)
+
+3. Compile and run:
+
+   ```
+   javac Main.java
+   java Main
+   ```
+
+4. Use the menu to interact with the application
+
+---
